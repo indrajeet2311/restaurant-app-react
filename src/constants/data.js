@@ -26,6 +26,11 @@ const wines = [
     price: '$26',
     tags: 'IE | 750 ml',
   },
+  {
+      title: 'Rhino Pale Ale',
+      price: '$31',
+      tags: 'CA | 750 ml',
+  }
 ];
 
 const cocktails = [
