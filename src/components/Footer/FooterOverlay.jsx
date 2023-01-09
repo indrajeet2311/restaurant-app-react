@@ -1,6 +1,5 @@
 import React from 'react';
 
-import {FiFacebook,FiTwitter,FiInstagram} from 'react-icons';
 import './FooterOverlay.css';
 
 const FooterOverlay = () => (
